@@ -2,7 +2,7 @@
 name = "tdd-fastapi"
 version = "0.0.1"
 description = "Uma simples api utilizando o conceito TDD"
-authors = ["fdtschmitz <fdtschmitz.dev@gmail.com>"]
+authors = ["Thiago <thiagoaquino.df@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
